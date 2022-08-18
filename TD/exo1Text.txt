@@ -1,0 +1,2 @@
+Exercice 1
+Ecrire un programme qui permet de saisir un nombre puis déterminer s’il appartient à un intervalle donné, sachant que les extrémités del’intervalle sont fixées par l’utilisateur.
