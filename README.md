@@ -31,24 +31,37 @@ Exercice 5
 Écrire un programme qui à partir d’une note affiche la mention correspondant ?
  
  
- 
 Exercice 6
+
 Écrire un programme qui demande un nombre de départ, et qui affiche les dix nombres suivants. Par exemple, si l'utilisateur entre le nombre 17, le # # # #programme affichera les nombres de 18 à 27.
+
+
 Exercice 7
+
 Le pgcd de deux nombres par soustractions successives.
 pgcd (a, b)= pgcd (a− b, a) si a> b
 pgcd (a, b)= pgcd (a,b − a) si b >a
 pgcd (a, b)= a si a = b
 On suppose que les opérandes sont des entiers positifs, écrire un programme qui permet de calculer le PGCD de deux nombres a et b.
+
 Exercice 8
+
 Écrire un programme qui saisie N entiers et affiche leur somme et leur moyenne ?
+
 Exercice 9
+
 Ecrire un programme qui détermine si un entier N est parfait ou non. Un entier est dit parfait s'il est égal à la somme de ses diviseurs. Exemple 6 = 3 + 2 +1
+
 Exercice 10
+
 Ecrire un programme qui permet de calculer le produit de deux entiers en utilisant des additions successives.
+
 Exercice 11
+
 Ecrire un programme qui permet de saisir un entier N etd'afficher s'il est premier ou non. Un nombre est dit premier s'il est divisible uniquement par 1 et par lui-même.
+
 Exercice 12
+
 Calculer la moyenne de notes fournies au clavier avec un dialogue de ce type :
 note 1 : 12
 note 2 : 15.25
@@ -59,7 +72,9 @@ moyenne de ces 4 notes : 12.37
 
 
 Le nombre de notes n’est pas connu a priori et l’utilisateur peut en fournir autant qu’il le désire. Pour signaler qu’il a terminé, on convient qu’il fournira une note fictive négative. Celle-ci ne devra naturellement pas être prise en compte dans le calcul de la moyenne.
+
 Exercice 12
+
 Ecrire un programme permettant de lire un nombre entier N puis calcule son factoriel.
 Utilisez tant que,
 Utilisez pour.
